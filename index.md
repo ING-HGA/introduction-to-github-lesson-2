@@ -10,6 +10,7 @@ Initialize empty Git repository in /Users/skills/Projects/recipe-repository/.git
 ```
 
 ## Task list in Markdown
+- [x] Finish a tisk in the task list
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the word
